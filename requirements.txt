@@ -1,1 +1,4 @@
-aiogram 
+aiogram
+aiosqlite
+aiohttp
+beautifulsoup4
